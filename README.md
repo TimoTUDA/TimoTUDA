@@ -22,7 +22,8 @@ This GitHub serves as my little project portfolio.
 <br />
 
 #
-
+### ⚡ Stats
+#
 ![Timo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimoTUDA&show_icons=true&theme=gruvbox)
 
 
