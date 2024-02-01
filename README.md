@@ -3,8 +3,10 @@
 
 I am continuosly trying to improve my knowledge in the field of Reinforcement Learning, Natural Language Processing and Machine Learning.
 This GitHub serves as my little project portfolio.
-#
+
+
 ### ✨ Language and Tools
+#
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
