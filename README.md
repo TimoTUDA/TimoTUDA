@@ -21,13 +21,15 @@ This GitHub serves as my little project portfolio.
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <br />
 
+
+
+
+<!--
+
 #
 ### ⚡ Stats
 #
 ![Timo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimoTUDA&show_icons=true&theme=gruvbox)
-
-
-<!--
 **TimoTUDA/TimoTUDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
